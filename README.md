@@ -3,4 +3,6 @@
  
  - Script For: Utilização da estrutura de repetição FOR em scripts;
  
- - Script jogo_jokenpo: Jogo Pedra, Papel, Tesoura com Python. 
+ - Script jogo_jokenpo: Jogo Pedra, Papel, Tesoura com Python; 
+
+ - Script calc_imc: Cálculo do IMC com Python.
