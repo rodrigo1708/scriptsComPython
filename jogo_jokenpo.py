@@ -1,5 +1,4 @@
 from random import randint
-from time import sleep
 
 print('''Suas opções: 
 [0] PEDRA
