@@ -5,4 +5,6 @@
  
  - Script jogo_jokenpo: Jogo Pedra, Papel, Tesoura com Python; 
 
- - Script calc_imc: Cálculo do IMC com Python.
+ - Script calc_imc: Cálculo do IMC com Python;
+
+ - Script categoria_atleta: Indicação da categoria de acordo com a idade utilizando a biblioteca Datetime.
