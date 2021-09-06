@@ -13,3 +13,5 @@
 
  - Script "pagamento": Programa para calcular desconto ou juros de um produto de acordo com a forma de pagamento.
 
+ - Script "calculadora": Programa para simular uma calculadora com operações básicas.
+
