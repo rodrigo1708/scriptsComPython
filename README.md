@@ -1,7 +1,7 @@
 # scriptsComPython
  Criação de scripts utilizando a linaguagem Python
  
- - Script "For": Utilização da estrutura de repetição FOR em scripts;
+ - Script "verificadorNumerosPrimos": Programa que verifica a existência de números primos em um range de números;
  
  - Script "jogo_jokenpo": Jogo Pedra, Papel, Tesoura com Python; 
 
