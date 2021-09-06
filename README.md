@@ -11,7 +11,9 @@
 
  - Script "triangulo": Confere se as medidas digitadas pelo usuário formam um triângulo e qual o tipo de triângulo será formado;
 
- - Script "pagamento": Programa para calcular desconto ou juros de um produto de acordo com a forma de pagamento.
+ - Script "pagamento": Programa para calcular desconto ou juros de um produto de acordo com a forma de pagamento;
 
- - Script "calculadora": Programa para simular uma calculadora com operações básicas.
+ - Script "calculadora": Programa para simular uma calculadora com operações básicas;
+
+ - Script "controleRemoto": Programa de controle remoto de uma televisão.
 
