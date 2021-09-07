@@ -15,5 +15,6 @@
 
  - Script "calculadora": Programa para simular uma calculadora com operações básicas;
 
- - Script "controleRemoto": Programa de controle remoto de uma televisão.
+ - Script "controleRemoto": Programa de controle remoto de uma televisão;
 
+ - Script "tabuada": Programa que mostra a tabuada que o usuário definir.
