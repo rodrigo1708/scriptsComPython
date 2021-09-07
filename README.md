@@ -1,5 +1,5 @@
 # scriptsComPython
- Criação de scripts utilizando a linaguagem Python
+ Criação de scripts utilizando a linguagem Python
  
  - Script "verificadorNumerosPrimos": Programa que verifica a existência de números primos em um range de números;
  
