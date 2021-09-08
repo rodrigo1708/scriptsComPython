@@ -17,4 +17,6 @@
 
  - Script "controleRemoto": Programa de controle remoto de uma televisão;
 
- - Script "tabuada": Programa que mostra a tabuada que o usuário definir.
+ - Script "tabuada": Programa que mostra a tabuada que o usuário definir;
+
+ - Script "progressaoAritmetica: Programa para calcular os 10 primeiros termos de uma PA.
