@@ -1,7 +1,7 @@
 # scriptsComPython
  Criação de scripts utilizando a linguagem Python
  
- - Script "verificadorNumerosPrimos": Programa que verifica a existência de números primos em um range de números;
+ - Script "verificadorNumerosPrimos": Programa que verifica a existência de números primos em um range de números definido pelo usuário e se um número digitado pelo usuário é primo ou não;
  
  - Script "jogo_jokenpo": Jogo Pedra, Papel, Tesoura com Python; 
 
