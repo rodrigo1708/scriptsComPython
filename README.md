@@ -19,4 +19,7 @@
 
  - Script "tabuada": Programa que mostra a tabuada que o usuário definir;
 
- - Script "progressaoAritmetica: Programa para calcular os 10 primeiros termos de uma PA.
+ - Script "progressaoAritmetica": Programa para calcular os 10 primeiros termos de uma PA.
+
+ - Script "verificadorPalindromo": Programa que verifica se uma frase ou palavra é um palíndromo.
+
