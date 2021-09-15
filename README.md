@@ -21,5 +21,10 @@
 
  - Script "progressaoAritmetica": Programa para calcular os 10 primeiros termos de uma PA.
 
- - Script "verificadorPalindromo": Programa que verifica se uma frase ou palavra é um palíndromo.
+ - Script "verificadorPalindromo": Programa que verifica se uma frase ou palavra é um palíndromo;
 
+ - Script "analisador": Criação de um programa para analisar características de determinado grupo de pessoas definido pelo usuário;
+ 
+ - Script "verificaIdade": Programa que verifica em um grupo de pessoas quantas atingiram a maior idade ( > 20 anos) e quantas não atingiram;
+ 
+ - Script "verificaPeso": Programa que verifica maior e menor peso.
