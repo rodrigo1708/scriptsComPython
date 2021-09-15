@@ -1,3 +1,5 @@
+# verifica em um grupo de pessoas quantas atingiram a maior idade (<20 anos) e quantas não atingiram
+
 from datetime import date
 
 
