@@ -29,4 +29,6 @@
  
  - Script "verificaPeso": Programa que verifica maior e menor peso;
  
- - Script "adivinhacao2.0": Jogo de adivinhação.
+ - Script "adivinhacao2.0": Jogo de adivinhação;
+
+ - Script "operadoresBasicos": Menu de opções para operações matemáticas básicas.
