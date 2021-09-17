@@ -27,4 +27,6 @@
  
  - Script "verificaIdade": Programa que verifica em um grupo de pessoas quantas atingiram a maior idade ( > 20 anos) e quantas não atingiram;
  
- - Script "verificaPeso": Programa que verifica maior e menor peso.
+ - Script "verificaPeso": Programa que verifica maior e menor peso;
+ 
+ - Script "adivinhacao2.0": Jogo de adivinhação.
