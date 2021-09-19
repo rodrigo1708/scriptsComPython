@@ -35,4 +35,6 @@
 
  - Script "fatorial": Programa que calcula o fatorial de um número de formas diferentes. Utilizando a estrtura FOR, WHILE e a biblioteca MATH;
 
- - Script "PA_2.0": Programa gerador de progressão aritmética completo.
+ - Script "PA_2.0": Programa gerador de progressão aritmética completo;
+
+ - Script "Tratando-valores-1.0.py": Programa para contar valores digitados e somar os valores (versão inicial).
