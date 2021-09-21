@@ -39,4 +39,6 @@
 
  - Script "Tratando-valores-1.0.py": Programa para contar valores digitados e somar os valores (versão inicial);
 
+ - Script "Tratando-valores-2.0.py": Atualização do programa na estrutura while;
+
  - Script "maior_menor.py": programa para ler vários números pelo teclado. No final da execução o programa mostra a média de todos os valores, qual o maior e o menor valor digitados.
