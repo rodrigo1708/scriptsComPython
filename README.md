@@ -19,6 +19,8 @@
 
  - Script "tabuada": Programa que mostra a tabuada que o usuário definir;
 
+ - Script "tabuada-2.0.py": Atualização do programa de tabuada;
+
  - Script "progressaoAritmetica": Programa para calcular os 10 primeiros termos de uma PA.
 
  - Script "verificadorPalindromo": Programa que verifica se uma frase ou palavra é um palíndromo;
