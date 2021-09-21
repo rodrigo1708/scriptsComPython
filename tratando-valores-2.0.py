@@ -5,8 +5,8 @@
 soma = n = c = 0
 while True:
     n = float(input("Digite um valor [digite 999 para parar]: "))
-    c += 1
     if n == 999:
         break
+    c += 1
     soma += n
 print(f"Você digitou {c} números e a soma entre eles foi {soma}.")
