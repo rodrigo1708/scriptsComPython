@@ -47,4 +47,6 @@
 
  - Script "par-ou-impar": Jogo par ou ímpar;
  
- - Script "cadastro-pessoas": Programa de cadastro de pessoas e análises do grupo cadastrado.
+ - Script "cadastro-pessoas": Programa de cadastro de pessoas e análises do grupo cadastrado;
+ 
+ - Script "compras": Programa de cadastro de compras e análise dos produtos comprados.
