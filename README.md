@@ -45,4 +45,6 @@
 
  - Script "maior_menor": Programa para ler vários números pelo teclado. No final da execução o programa mostra a média de todos os valores, qual o maior e o menor valor digitados;
 
- - Script "par-ou-impar": Jogo par ou ímpar.
+ - Script "par-ou-impar": Jogo par ou ímpar;
+ 
+ - Script "cadastro-pessoas": Programa de cadastro de pessoas e análises do grupo cadastrado.
