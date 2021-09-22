@@ -40,6 +40,6 @@ while True: # loop infinito caso o jogador vença o computador
 print("-_-"*15)
 # Em caso de vitória do pc, o programa conta quantaas vitórias o jogador teve até perder para o pc.
 if vitoria >= 5:
-    print(f"GAME OVER!\nPARABÉNS você venceu{vitoria} vezes!!")
+    print(f"GAME OVER!\nPARABÉNS você venceu {vitoria} vezes!!")
 else:
     print(f"GAME OVER! Você venceu {vitoria} vezes.")
