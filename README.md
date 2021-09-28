@@ -49,4 +49,6 @@
  
  - Script "cadastro-pessoas": Programa de cadastro de pessoas e análises do grupo cadastrado;
  
- - Script "compras": Programa de cadastro de compras e análise dos produtos comprados.
+ - Script "compras": Programa de cadastro de compras e análise dos produtos comprados;
+
+ - Script "simulador-caixa-eletronico": Programa que simula um caixa eletrônico.
