@@ -51,4 +51,6 @@
  
  - Script "compras": Programa de cadastro de compras e análise dos produtos comprados;
 
- - Script "simulador-caixa-eletronico": Programa que simula um caixa eletrônico.
+ - Script "simulador-caixa-eletronico": Programa que simula um caixa eletrônico;
+
+ - Script "maior_menor_tuplas": Programa que sorteia números e informa qual o maior e menor número sorteado.
