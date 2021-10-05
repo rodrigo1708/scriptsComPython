@@ -57,4 +57,6 @@
 
  - Script "analise_dados_tuplas": Programa que insere os números digitados pelo usuário dentro de uma tupla e faz uma breve análise sobre os elementos da tupla;
 
- - Script "tabela_de_precos": Programa que lê produtos e seus respectivos valores digitados pelo usuário e imprime a tabela de produtos e preços.
+ - Script "tabela_de_precos": Programa que lê produtos e seus respectivos valores digitados pelo usuário e imprime a tabela de produtos e preços;
+
+ - Script "contador_vogais": Programa para contar as vogais de uma palavra digitada pelo usuário.
