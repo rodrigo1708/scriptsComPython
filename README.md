@@ -55,4 +55,6 @@
 
  - Script "maior_menor_tuplas": Programa que sorteia números e informa qual o maior e menor número sorteado;
 
- - Script "analise_dados_tuplas": Programa que insere os números digitados pelo usuário dentro de uma tupla e faz uma breve análise sobre os elementos da tupla.
+ - Script "analise_dados_tuplas": Programa que insere os números digitados pelo usuário dentro de uma tupla e faz uma breve análise sobre os elementos da tupla;
+
+ - Script "tabela_de_precos": Programa que lê produtos e seus respectivos valores digitados pelo usuário e imprime a tabela de produtos e preços.
