@@ -53,4 +53,6 @@
 
  - Script "simulador-caixa-eletronico": Programa que simula um caixa eletrônico;
 
- - Script "maior_menor_tuplas": Programa que sorteia números e informa qual o maior e menor número sorteado.
+ - Script "maior_menor_tuplas": Programa que sorteia números e informa qual o maior e menor número sorteado;
+
+ - Script "analise_dados_tuplas": Programa que insere os números digitados pelo usuário dentro de uma tupla e faz uma breve análise sobre os elementos da tupla.
