@@ -59,4 +59,6 @@
 
  - Script "tabela_de_precos": Programa que lê produtos e seus respectivos valores digitados pelo usuário e imprime a tabela de produtos e preços;
 
- - Script "contador_vogais": Programa para contar as vogais de uma palavra digitada pelo usuário.
+ - Script "contador_vogais": Programa para contar as vogais de uma palavra digitada pelo usuário;
+
+ - Script "maior_menor_listas": Programa que lê 5 números digitados pelo usuário, armazena em uma lista e informa qual o maior e menor número digitados e suas respectivas posições na lista.
