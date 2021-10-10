@@ -63,4 +63,6 @@
 
  - Script "maior_menor_listas": Programa que lê 5 números digitados pelo usuário, armazena em uma lista e informa qual o maior e menor número digitados e suas respectivas posições na lista;
 
- - Script "valores_unicos_lista": Programa que não permite a inclusão de valores duplicados em uma lista.
+ - Script "valores_unicos_lista": Programa que não permite a inclusão de valores duplicados em uma lista;
+
+ - Script "lista_ordenada": Programa que lê 5 números e os coloca em ordem crescente.
