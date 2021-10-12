@@ -67,4 +67,6 @@
 
  - Script "lista_ordenada": Programa que lê 5 números e os coloca em ordem crescente;
 
- - Script "analise_dados_lista": Programa que analisa dados digitados em uma lista.
+ - Script "analise_dados_lista": Programa que analisa dados digitados em uma lista;
+
+ - Script "dividindo_listas": Programa que divide uma lista em uma outra lista só com números pares e outra lista só com números ímpares.
