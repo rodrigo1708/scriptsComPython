@@ -65,4 +65,6 @@
 
  - Script "valores_unicos_lista": Programa que não permite a inclusão de valores duplicados em uma lista;
 
- - Script "lista_ordenada": Programa que lê 5 números e os coloca em ordem crescente.
+ - Script "lista_ordenada": Programa que lê 5 números e os coloca em ordem crescente;
+
+ - Script "analise_dados_lista": Programa que analisa dados digitados em uma lista.
