@@ -69,4 +69,6 @@
 
  - Script "analise_dados_lista": Programa que analisa dados digitados em uma lista;
 
- - Script "dividindo_listas": Programa que divide uma lista em uma outra lista só com números pares e outra lista só com números ímpares.
+ - Script "dividindo_listas": Programa que divide uma lista em uma outra lista só com números pares e outra lista só com números ímpares;
+
+ - Script "lista_peso": Programa que verifica dados de peso de uma lista de pessoas.
