@@ -73,4 +73,7 @@
 
  - Script "lista_peso": Programa que verifica dados de peso de uma lista de pessoas;
 
- - Script "par_impar_lista": Programa que lê 7 números e ordena em par e ímpar.
+ - Script "par_impar_lista": Programa que lê 7 números e ordena em par e ímpar;
+
+ - Script "matriz_3x3": Programa que lê 9 números, insere os valores em uma matriz e exibe a matriz na formatação correta.
+
