@@ -71,4 +71,6 @@
 
  - Script "dividindo_listas": Programa que divide uma lista em uma outra lista só com números pares e outra lista só com números ímpares;
 
- - Script "lista_peso": Programa que verifica dados de peso de uma lista de pessoas.
+ - Script "lista_peso": Programa que verifica dados de peso de uma lista de pessoas;
+
+ - Script "par_impar_lista": Programa que lê 7 números e ordena em par e ímpar.
