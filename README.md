@@ -75,4 +75,7 @@
 
  - Script "par_impar_lista": Programa que lê 7 números e ordena em par e ímpar;
 
- - Script "matriz_3x3": Programa que lê 9 números, insere os valores em uma matriz, exibe a matriz na formatação correta e analisa os valores inseridos na matriz.
+ - Script "matriz_3x3": Programa que lê 9 números, insere os valores em uma matriz, exibe a matriz na formatação correta e analisa os valores inseridos na matriz;
+
+ - Script "jogo-mega_sena": Programa que lê a quantidade de jogos que o usuário quer jogar e sorteia 6 números para cada jogo.
+
