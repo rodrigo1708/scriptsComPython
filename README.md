@@ -75,5 +75,4 @@
 
  - Script "par_impar_lista": Programa que lê 7 números e ordena em par e ímpar;
 
- - Script "matriz_3x3": Programa que lê 9 números, insere os valores em uma matriz e exibe a matriz na formatação correta.
-
+ - Script "matriz_3x3": Programa que lê 9 números, insere os valores em uma matriz, exibe a matriz na formatação correta e analisa os valores inseridos na matriz.
