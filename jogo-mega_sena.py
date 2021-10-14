@@ -1,0 +1,34 @@
+# SORTEIO DE JOGOS PARA MEGA SENA
+
+from random import randint
+from time import sleep
+
+print('='*10, 'JOGO DA MEGA SENA', '='*10)
+qtdlinha = int(input("Digite quantos jogos quer fazer: "))  # O USUÁRIO DEFINE A QUANTIDADE DE JOGOS QUE QUER SORTEAR
+# QUE REPRESENTA TAMBÉM A QUANTIDADE DE LINHAS DA MATRIZ
+jogo = []  # INICIALIZAÇÃO DA MATRIZ QUE OS NÚMEROS SORTEADOS FICARÃO ARMAZENADOS
+sorteados = []  # LISTA QUE ARMAZENARÁ OS NÚMEROS SORTEADOS PARA CADA JOGO
+total = 1  # VARIÁVEL QUE REPRESENTA O TOTAL DE JOGOS, QUE COMEÇA COM UM JOGO E DEFINE O MOMENTO DE PARA DO LAÇO WHILE
+
+while total <= qtdlinha:  # ENQUANTO O TOTAL DE JOGOS FOR MENOR QUE A QUANTIDADE DE JOGOS DEFINIDA PELO USUÁRIO
+    contador = 0  # INICIALIZAÇÃO DO CONTADOR PARA DELIMITAR O SORTEIO DOS NÚMEROS
+    while True:
+        n = randint(1, 60)  # SORTEIO DOS NÚMEROS
+        if n not in sorteados:  # ESTRUTURA CONDICIONAL QUE IMPEDE QUE OS NÚMEROS SORTEADOS
+            # NÃO SE REPITAM NO MESMO JOGO
+            sorteados.append(n)  # INCLUSÃO DO NÚMERO SORTEADO DENTRO DA LISTA
+            contador += 1  # O CONTADOR DEFINE A QUANTIDADE DE NÚMEROS SORTEADOS
+        if contador == 6:  # QUANDO TIVEREM SIDO SORTEADOS 6 NÚMEROS, O LAÇO DE REPETIÇÃO SE ENCERRA
+            # (CADA JOGO TEM 6 NÚMEROS SORTEADOS)
+            break
+    jogo.append(sorteados[:])  # ADICIONA OS 6 NÚMEROS SORTEADOS DENTRO DA VARIÁVEL LISTA, NA LISTA 'JOGO'
+    # ENQUANTO O TOTAL DE JOGOS FOR MENOR QUE A QUANTIDADE DE JOGOS DEFINIDA PELO USUÁRIO
+    sorteados.clear()  # LIMPA A LISTA PARA EVITAR A REPETIÇÃO DO PRÓXIMO APPEND NA VARIÁVEL 'JOGO'
+    total += 1  # CONTAGEM DO NÚMERO DE JOGOS
+print('=' * 10, f'SORTEANDO {qtdlinha} JOGOS', '=' * 10)
+sleep(2)
+# ESCREVENDO OS JOGOS...
+for i, linha in enumerate(jogo):
+    print(f'Jogo {i + 1}: {linha}')
+    sleep(2)
+print('='*14, 'BOA SORTE', '='*14)
