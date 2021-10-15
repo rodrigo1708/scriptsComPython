@@ -77,5 +77,6 @@
 
  - Script "matriz_3x3": Programa que lê 9 números, insere os valores em uma matriz, exibe a matriz na formatação correta e analisa os valores inseridos na matriz;
 
- - Script "jogo-mega_sena": Programa que lê a quantidade de jogos que o usuário quer jogar e sorteia 6 números para cada jogo.
+ - Script "jogo-mega_sena": Programa que lê a quantidade de jogos que o usuário quer jogar e sorteia 6 números para cada jogo;
 
+ - Script "boletim": Programa que lê o nome e as notas de alunos, calcula a média e exibe o boletim das médias dos alunos e a nota individual de cada aluno.
