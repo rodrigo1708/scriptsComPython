@@ -79,4 +79,6 @@
 
  - Script "jogo-mega_sena": Programa que lê a quantidade de jogos que o usuário quer jogar e sorteia 6 números para cada jogo;
 
- - Script "boletim": Programa que lê o nome e as notas de alunos, calcula a média e exibe o boletim das médias dos alunos e a nota individual de cada aluno.
+ - Script "boletim": Programa que lê o nome e as notas de alunos, calcula a média e exibe o boletim das médias dos alunos e a nota individual de cada aluno;
+
+ - Script "jogo_dados": Programa que sorteia o número de um dado para 4 jogadores e classifica os jogadores pela pontuação (maior para o menor).
