@@ -81,4 +81,6 @@
 
  - Script "boletim": Programa que lê o nome e as notas de alunos, calcula a média e exibe o boletim das médias dos alunos e a nota individual de cada aluno;
 
- - Script "jogo_dados": Programa que sorteia o número de um dado para 4 jogadores e classifica os jogadores pela pontuação (maior para o menor).
+ - Script "jogo_dados": Programa que sorteia o número de um dado para 4 jogadores e classifica os jogadores pela pontuação (maior para o menor);
+
+ - Script: "calc_aposent": Programa que calcula a idade ou ano de aposentadoria.
