@@ -83,4 +83,7 @@
 
  - Script "jogo_dados": Programa que sorteia o número de um dado para 4 jogadores e classifica os jogadores pela pontuação (maior para o menor);
 
- - Script: "calc_aposent": Programa que calcula a idade ou ano de aposentadoria.
+ - Script: "calc_aposent": Programa que calcula a idade ou ano de aposentadoria;
+
+ - Script "gols": Programa que lê e armazena em um dicionário, o nome, nº de partidas jogadas e quantidade de gols marcados por um jogador.
+
