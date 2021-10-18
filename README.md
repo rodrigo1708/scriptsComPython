@@ -85,5 +85,6 @@
 
  - Script: "calc_aposent": Programa que calcula a idade ou ano de aposentadoria;
 
- - Script "gols": Programa que lê e armazena em um dicionário, o nome, nº de partidas jogadas e quantidade de gols marcados por um jogador.
+ - Script "gols": Programa que lê e armazena em um dicionário, o nome, nº de partidas jogadas e quantidade de gols marcados por um jogador;
 
+ - Script "cadastro-pessoas-2.0": Programa que cadastra um grupo de pessoas e analisa a média de idade, a quantidade de pessoas acima da média de idade do grupo e o número de mulheres cadastradas na lista.
