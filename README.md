@@ -87,4 +87,7 @@
 
  - Script "gols": Programa que lê e armazena em um dicionário, o nome, nº de partidas jogadas e quantidade de gols marcados por um jogador;
 
- - Script "cadastro-pessoas-2.0": Programa que cadastra um grupo de pessoas e analisa a média de idade, a quantidade de pessoas acima da média de idade do grupo e o número de mulheres cadastradas na lista.
+ - Script "cadastro-pessoas-2.0": Programa que cadastra um grupo de pessoas e analisa a média de idade, a quantidade de pessoas acima da média de idade do grupo e o número de mulheres cadastradas na lista;
+
+ - Script "estatisticas": Programa que lê e armazena estatísticas de jogadores em dicionários e armazena os dicionários dos jogadores em uma lista para mostrar as estatísticas de todos os jogadores cadastrados e, em seguida, mostrar a estatística de cada jogador individualmente.
+
