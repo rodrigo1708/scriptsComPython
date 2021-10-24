@@ -91,5 +91,8 @@
 
  - Script "estatisticas": Programa que lê e armazena estatísticas de jogadores em dicionários e armazena os dicionários dos jogadores em uma lista para mostrar as estatísticas de todos os jogadores cadastrados e, em seguida, mostrar a estatística de cada jogador individualmente;
 
- - Script "contador": Programa que faz a contagem de números.
+ - Script "contador": Programa que faz a contagem de números;
+
+ - Script "fatorial()": Programa que calcula o fatorial de um número escolhido pelo usuário utilizando função em python.
+
 
