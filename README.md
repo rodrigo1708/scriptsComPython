@@ -93,6 +93,8 @@
 
  - Script "contador": Programa que faz a contagem de números;
 
- - Script "fatorial()": Programa que calcula o fatorial de um número escolhido pelo usuário utilizando função em python.
+ - Script "fatorial()": Programa que calcula o fatorial de um número escolhido pelo usuário utilizando função em python;
+
+ - Script "validaInt": Programa que valida a entrada de dados do tipo inteiro.
 
 
