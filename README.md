@@ -95,6 +95,6 @@
 
  - Script "fatorial()": Programa que calcula o fatorial de um número escolhido pelo usuário utilizando função em python;
 
- - Script "validaInt": Programa que valida a entrada de dados do tipo inteiro.
+ - Script "validaInt": Programa que valida a entrada de dados do tipo inteiro;
 
-
+ - Script "interactive-help": Programa que mostra o manual de ajuda de uma função ou biblioteca a ser definida pelo usuário.
