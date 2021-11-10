@@ -1,0 +1,1 @@
+ - Pasta "módulos": criação de módulos para tratamento de dados de moeda e análise de valores digitados pelo usuário.
