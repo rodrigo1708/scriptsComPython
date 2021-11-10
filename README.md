@@ -98,3 +98,5 @@
  - Script "validaInt": Programa que valida a entrada de dados do tipo inteiro;
 
  - Script "interactive-help": Programa que mostra o manual de ajuda de uma função ou biblioteca a ser definida pelo usuário.
+
+ - Pasta "módulos": Pasta com scripts em python para trabalho com módulos e pacotes.
