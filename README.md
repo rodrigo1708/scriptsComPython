@@ -99,4 +99,6 @@
 
  - Script "interactive-help": Programa que mostra o manual de ajuda de uma função ou biblioteca a ser definida pelo usuário.
 
- - Pasta "módulos": Pasta com scripts em python para trabalho com módulos e pacotes.
+ - Pasta "módulos": Pasta com scripts em python para trabalho com módulos e pacotes;
+
+ - Script "validaInt2.0": Validação de números inteiros e decimais utilizando o tratamento de erros e exceções.
