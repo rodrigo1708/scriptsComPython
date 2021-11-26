@@ -101,4 +101,7 @@
 
  - Pasta "módulos": Pasta com scripts em python para trabalho com módulos e pacotes;
 
- - Script "validaInt2.0": Validação de números inteiros e decimais utilizando o tratamento de erros e exceções.
+ - Script "validaInt2.0": Validação de números inteiros e decimais utilizando o tratamento de erros e exceções;
+
+ - Pasta "cadastro_pessoas": Criação de sistema com pacotes para cadastro de pessoas em arquivo .txt e leitura das pessoas cadastradas no arquivo.
+
