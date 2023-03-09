@@ -105,3 +105,5 @@
 
  - Pasta "cadastro_pessoas": Criação de sistema com pacotes para cadastro de pessoas em arquivo .txt e leitura das pessoas cadastradas no arquivo.
 
+ - Script "jogo_forca": Criação de script de jogo da forca de acordo com sorteio de lista de palavras.
+
